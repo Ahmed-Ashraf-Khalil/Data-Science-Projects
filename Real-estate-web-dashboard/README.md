@@ -1,4 +1,4 @@
-# Dash-Real-estate-application
+# Dash-Real-estate-web-dashboard
 <br>
 Data Science project of Dash-Python Decision support application about Real-estate
 <br>
